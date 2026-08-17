@@ -1,0 +1,3 @@
+[submodule "tardenia"]
+	path = tardenia
+	url = https://github.com/rcorbellini/tardenia.git
